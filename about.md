@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I am in [New York](http://newyork.com) at a workshop having fun. I am in [New York](http://newyork.com) at a workshop having fun. I am in [New York](http://newyork.com) at a workshop having fun. I am in [New York](http://newyork.com) at a workshop having fun. I am in [New York](http://newyork.com) at a workshop having fun. I am in [New York](http://newyork.com) at afasdasdaskjhkjhkjhkh workshop having fun. I am in [New York](http://newyork.com) at a workshop having fun.I am in [New York](http://newyork.com) at a workshop having fun.I am in [New York](http://newyork.com) at a workshop having fun.I am in [New York](http://newyork.com) at a workshop having fun.I am in [New York](http://newyork.com) at a workshop having fun.I am in [New York](http://newyork.com) at a workshop having fun.I am in [New York](http://newyork.com) at a workshop having fun.I am in [New York](http://newyork.com) at a workshop having fun.I am in [New York](http://newyork.com) at a workshop having fun.
+
 
 ![This is a picture](image.png)
 
